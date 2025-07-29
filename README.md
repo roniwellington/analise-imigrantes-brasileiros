@@ -23,3 +23,5 @@ As principais bibliotecas utilizadas, listadas em [`requirements.txt`](requireme
 ## Visualização
 
 ![Imigração na América do Sul](imagens/imigracao_americana_sul.png)
+
+###############
